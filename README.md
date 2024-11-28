@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comforta&weight=400&size=60&pause=30&color=DF4616&width=1600&height=100&lines=Hello+there!;Welcome+to+my+profile!;I'm+a+passionate+ENGINEER+from+India!)](https://git.io/typing-svg) -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=800&color=C2FF00&width=700&lines=🚀+Hello+there!+Welcome+to+my+profile!;💻+I'm+a+Software+Engineer!;📚+Check+out+my+projects+below!;🙏+Thank+you+for+visiting+and+have+a+great+day!+😊" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=800&color=C2FF00&width=700&lines=🚀+Hello+there!+Welcome+to+my+profile!;💻+I'm+a+Software+Engineer!;📚+Check+out+my+details+below!;🙏+Thank+you+for+visiting+and+have+a+great+day!+😊" alt="Typing SVG" />
 </a>
 
 
